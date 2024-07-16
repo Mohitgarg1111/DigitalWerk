@@ -12,7 +12,7 @@ function About() {
             <div className='w-full flex gap-5 border-t-[1px] pt-10 mt-20 border-[#090c00]'>
                 <div className='w-1/2'>
 
-                    <h1 className='text-7xl'>Our Approach</h1>
+                    <h1 className='text-7xl'>Our avc</h1>
                     <p className='text-3xl mt-5'>- 24*7 Support</p>
                     <p className='text-3xl'>- Customized Advertisements</p>
                     <p className='text-3xl'>- Great Deals / Offers</p>
